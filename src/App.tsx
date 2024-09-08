@@ -11,9 +11,7 @@ function App() {
 
         <h2 className="text-lg">Basic</h2>
 
-        <NextuiAlert severity="danger" title="Danger Alert">
-          Something went wrong with your request.
-        </NextuiAlert>
+        <NextuiAlert>Something went wrong with your request.</NextuiAlert>
 
         <h2 className="text-lg">Variants and Severity</h2>
 
